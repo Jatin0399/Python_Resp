@@ -1,3 +1,7 @@
+#Personalized Greeting
+
+# Taking First and from the user
+
 first = input('Enter your first name: ')
 last = input('Enter your last name: ')
 
